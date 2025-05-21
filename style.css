@@ -1,0 +1,19 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	background-color: beige;
+}
+
+/*STYLE FOR CONTAINER*/
+.container {
+	background-color: darkblue;
+	color: floralwhite;
+}
+
+/*style for image*/
+img {
+	width: 150px;
+}
